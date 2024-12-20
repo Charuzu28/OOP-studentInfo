@@ -1,0 +1,23 @@
+/StudentManagementSystem
+├── /assets
+│   ├── /css
+│   │   ├── styles.css
+│   ├── /js
+│   │   ├── main.js
+│   ├── /img
+│       └── logo.png
+├── /includes
+│   ├── dbcon.php
+│   ├── User.php
+│   ├── Student.php
+│   ├── Course.php
+├── /pages
+│   ├── login.php
+│   ├── signup.php
+│   ├── dashboard.php
+│   ├── students.php
+│   ├── courses.php
+├── /public
+│   └── index.php
+└── /config
+    └── config.php
